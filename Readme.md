@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Alisa Tetenova](https://up.htmlacademy.ru/htmlcss/30/user/144453).
-* Наставник: `Неизвестно`.
+* Наставник: [Анна Рус](https://htmlacademy.ru/profile/vanillawulf).
 
 ---
 
