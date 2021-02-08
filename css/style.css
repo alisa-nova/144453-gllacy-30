@@ -165,6 +165,11 @@ img {
   color: var(--basic-white);
 }
 
+.header-phone a:hover,
+.header-phone a:focus {
+  color: var(--special-link-light-red);
+}
+
 /*Slider*/
 
 .slider-list {
@@ -241,6 +246,8 @@ img {
   font-size: 30px;
   line-height: 35px;
 }
+
+
 
 /*About*/
 
@@ -322,8 +329,13 @@ img {
   font-weight: 400;
 }
 
-.useful-list a{
+.useful-list a {
   color: var(--basic-white);
+}
+
+.useful-list a:hover,
+.useful-list a:focus {
+  color: var(--special-link-light-red);
 }
 
 .useful-highlight {
@@ -341,6 +353,11 @@ img {
 .copyright-link {
   text-decoration: none;
   color: var(--basic-white);
+}
+
+.copyright-link:hover,
+.copyright-link:focus {
+  color: var(--special-link-light-red);
 }
 
 
